@@ -79,7 +79,7 @@ It exists to explore **how explanation itself should work**.
 #### Try it
 
 * Custom GPT link: *(https://chatgpt.com/g/g-69771a6320b48191a21ffd9a512eaa64-hypothesis-forge1)*
-* Example conversations: [examples](./examples)
+* Example conversations: [examples](./Examples)
 
 
 ---
